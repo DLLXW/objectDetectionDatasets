@@ -20,8 +20,8 @@ voc_to_coco_v2.py使用.
 
 ## make_voc.py(其余各种格式转voc)
 前面没有写coco转voc格式的脚本,make_voc.py就提供了一个制作voc格式数据的通用套路（核心代码）.
-'''python
-img = cv2.imread(image_path)
+```python
+`img = cv2.imread(image_path)
             height, width, depth = img.shape
             with codecs.open(anno_dir + imgId_frame_name[:-4] + '.xml', 'w', 'utf-8') as xml:
                 xml.write('<annotation>\n')
@@ -47,5 +47,5 @@ img = cv2.imread(image_path)
                     xml.write('\t</object>\n')
                     cnt += 1
                 assert cnt > 0
-                xml.write('</annotation>')
-'''
+                xml.write('</annotation>')`
+```
