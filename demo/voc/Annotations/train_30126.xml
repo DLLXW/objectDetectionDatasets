@@ -1,0 +1,40 @@
+<annotation>
+   <folder>down</folder>
+   <filename>train_30126.jpg</filename>
+   <path>./savePicture/train_30126.jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>640</width>
+      <height>480</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>multi_signs</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>495</xmin>
+         <ymin>80</ymin>
+         <xmax>552</xmax>
+         <ymax>99</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>multi_signs</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>416</xmin>
+         <ymin>120</ymin>
+         <xmax>605</xmax>
+         <ymax>164</ymax>
+      </bndbox>
+   </object>
+</annotation>

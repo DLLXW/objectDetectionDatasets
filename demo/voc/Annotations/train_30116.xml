@@ -1,0 +1,66 @@
+<annotation>
+   <folder>down</folder>
+   <filename>train_30116.jpg</filename>
+   <path>./savePicture/train_30116.jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>480</width>
+      <height>640</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>window_shielding</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>28</xmin>
+         <ymin>43</ymin>
+         <xmax>153</xmax>
+         <ymax>187</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>window_shielding</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>171</xmin>
+         <ymin>57</ymin>
+         <xmax>204</xmax>
+         <ymax>111</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>window_shielding</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>149</xmin>
+         <ymin>88</ymin>
+         <xmax>219</xmax>
+         <ymax>211</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>window_shielding</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>217</xmin>
+         <ymin>97</ymin>
+         <xmax>237</xmax>
+         <ymax>217</ymax>
+      </bndbox>
+   </object>
+</annotation>

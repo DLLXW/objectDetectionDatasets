@@ -1,0 +1,66 @@
+<annotation>
+   <folder>down</folder>
+   <filename>train_30090.jpg</filename>
+   <path>./savePicture/train_30090.jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>480</width>
+      <height>640</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>multi_signs</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>183</xmin>
+         <ymin>153</ymin>
+         <xmax>272</xmax>
+         <ymax>367</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>multi_signs</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>157</xmin>
+         <ymin>156</ymin>
+         <xmax>192</xmax>
+         <ymax>369</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>non_traffic_sign</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>185</xmin>
+         <ymin>151</ymin>
+         <xmax>272</xmax>
+         <ymax>368</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>non_traffic_sign</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>156</xmin>
+         <ymin>153</ymin>
+         <xmax>192</xmax>
+         <ymax>370</ymax>
+      </bndbox>
+   </object>
+</annotation>

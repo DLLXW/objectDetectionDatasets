@@ -1,0 +1,27 @@
+<annotation>
+   <folder>down</folder>
+   <filename>train_30131.jpg</filename>
+   <path>./savePicture/train_30131.jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>480</width>
+      <height>640</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>window_shielding</name>
+      <editType />
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>278</xmin>
+         <ymin>366</ymin>
+         <xmax>469</xmax>
+         <ymax>457</ymax>
+      </bndbox>
+   </object>
+</annotation>
