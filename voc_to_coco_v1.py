@@ -60,7 +60,7 @@ def convert(xml_list, xml_dir, json_file):
         xml_f = os.path.join(xml_dir, line)
         tree = ET.parse(xml_f)
         root = tree.getroot()
-        filename = get(root, 'filename')
+        filename = root.find('filename').text
         # 取出图片名字
         image_id+=1
         size = get_and_check(root, 'size', 1)
