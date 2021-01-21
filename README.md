@@ -7,7 +7,6 @@
 这两个脚本都是实现从voc的.xml标注格式转换到coco的.json格式,只是有所区别
 > - v1版本实现了转换的同时进行训练／验证的分割
 > - v2版本包含了segemetation字段(当训练htc等需要分割的任务时候网络需要用到)
-> -建议使用v2版本,v1可能会报错
 ## convert_voc_to_yoloV5.py　和 convert_voc_to_yoloV3.py
 两个脚本实现的功能几乎相同,灵活取用
 > - V5脚本实现将voc格式的数据转化为yoloV5需要的.txt标注文件,运行该脚本，会在voc/目录下生成
